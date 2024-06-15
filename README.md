@@ -9,7 +9,7 @@
 
 </div>
 
-Welcome to CrypSurf v1.<br>
+Welcome to CrypSurf v1.
 This project is a simple proof of concept WIP browser like Google Chrome or Firefox, made in python. This project is made ontop of ProgrammingHero's browser using QyQt5 ([HERE](https://github.com/ProgrammingHero1/my_cool_browser)). I've simply built up from it and made it my own.
 
 ## ❔ Progress
