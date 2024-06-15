@@ -127,42 +127,42 @@ app = QApplication(sys.argv)
 
 # app.setStyleSheet("""
 #     QMainWindow {
-#         background-color: #07090D; /* Background behind the tabs and inselected tabs */
-#         border-radius: 10px; /* Rounded corners for the main window */
+#         background-color: #07090D; 
+#         border-radius: 10px;
 #     }
 #     QToolBar {
-#         background-color: #0E121B; /* Selected tab color and navbar */
+#         background-color: #0E121B;
 #         color: white;
-#         border-radius: 5px; /* Rounded corners for the toolbar */
+#         border-radius: 5px; 
 #     }
 #     QPushButton, QLineEdit {
 #         border: none;
-#         color: white; /* Navbar text input box */
-#         background-color: #1C2435; /* Navbar text input box */
+#         color: white;
+#         background-color: #1C2435; 
 #         padding: 5px;
-#         border-radius: 10px; /* Rounded corners for buttons and text input */
+#         border-radius: 10px;
 #     }
 #     QPushButton:hover, QLineEdit:focus {
-#         background-color: #2F3640; /* A slightly lighter shade for hover/focus */
+#         background-color: #2F3640;
 #     }
 #     QTabWidget {
-#         background-color: #07090D; /* Background behind the tabs */
+#         background-color: #07090D;
 #         color: white;
 #     }
 #     QTabBar::tab {
-#         background-color: #07090D; /* Inselected tabs */
+#         background-color: #07090D;
 #         color: white;
-#         padding: 10px; /* Increased padding for thickness */
-#         border-width: 2px; /* Added thickness */
+#         padding: 10px;
+#         border-width: 2px; 
 #         border-style: solid;
-#         border-color: #0E121B; /* Border color matching selected tab color */
-#         border-radius: 10px; /* Rounded corners for tabs */
+#         border-color: #0E121B;
+#         border-radius: 10px;
 #     }
 #     QTabBar::tab:selected {
-#         background-color: #0E121B; /* Selected tab color */
+#         background-color: #0E121B;
 #     }
 #     QToolBar::action {
-#         color: white; /* Button text color */
+#         color: white; 
 #     }
 #     QToolBar::action:hover {
 #         background-color: #1C2435; /* Button color on hover */
